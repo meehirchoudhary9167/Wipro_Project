@@ -1,0 +1,7 @@
+2025-08-23 17:31:33 [main] INFO  tests.DemoQATest - Launching DemoQA Website...
+2025-08-23 17:31:36 [main] INFO  tests.DemoQATest - Website opened successfully!
+2025-08-23 17:33:58 [main] INFO  tests.DemoQATest - Launching DemoQA Website...
+2025-08-23 17:33:58 [main] INFO  tests.DemoQATest - Browser maximized.
+2025-08-23 17:34:04 [main] INFO  tests.DemoQATest - Website opened successfully!
+2025-08-23 17:34:09 [main] INFO  tests.DemoQATest - Waited for 5 seconds.
+2025-08-23 17:34:09 [main] INFO  tests.DemoQATest - Browser closed.
