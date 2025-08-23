@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-23T20:18:13 IST" name="Default suite" finished-at="2025-08-23T20:18:14 IST" duration-ms="1295">
+    <groups>
+    </groups>
+    <test started-at="2025-08-23T20:18:13 IST" name="Default test" finished-at="2025-08-23T20:18:14 IST" duration-ms="1295">
+      <class name="DataDrivenTest.DatadrivenTest">
+        <test-method signature="fillFormWithDB(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenTest.DatadrivenTest@43bc63a3]" started-at="2025-08-23T20:18:13 IST" name="fillFormWithDB" data-provider="FormDataFromDB" finished-at="2025-08-23T20:18:14 IST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amit@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9988776655]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormWithDB -->
+        <test-method signature="fillFormWithDB(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenTest.DatadrivenTest@43bc63a3]" started-at="2025-08-23T20:18:14 IST" name="fillFormWithDB" data-provider="FormDataFromDB" finished-at="2025-08-23T20:18:14 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sara@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876501234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormWithDB -->
+        <test-method signature="fillFormWithExcel(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenTest.DatadrivenTest@43bc63a3]" started-at="2025-08-23T20:18:14 IST" name="fillFormWithExcel" data-provider="FormDataFromExcel" finished-at="2025-08-23T20:18:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sriram ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[praveen]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[srirampraveenb@gmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.876543222E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormWithExcel -->
+        <test-method signature="fillFormWithExcel(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDrivenTest.DatadrivenTest@43bc63a3]" started-at="2025-08-23T20:18:14 IST" name="fillFormWithExcel" data-provider="FormDataFromExcel" finished-at="2025-08-23T20:18:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sravan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sravan@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.876543221E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormWithExcel -->
+      </class> <!-- DataDrivenTest.DatadrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
