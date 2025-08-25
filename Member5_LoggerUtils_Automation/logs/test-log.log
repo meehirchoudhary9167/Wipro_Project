@@ -1,0 +1,54 @@
+2025-08-23 21:28:27 INFO  DemoQATest:22 - Launching DemoQA Website...
+2025-08-23 21:28:27 INFO  DemoQATest:26 - Browser maximized.
+2025-08-23 21:28:42 INFO  DemoQATest:30 - Website opened successfully!
+2025-08-23 21:28:47 INFO  DemoQATest:34 - Waited for 5 seconds.
+2025-08-23 21:28:47 INFO  DemoQATest:37 - Browser closed.
+2025-08-23 21:28:48 INFO  DemoQATest:47 - Full Name from Excel: monika
+2025-08-23 21:28:48 INFO  DemoQATest:48 - Email from Excel: moni@demo.com
+2025-08-23 21:28:48 INFO  DemoQATest:49 - Phone from Excel: 1234546614
+2025-08-23 21:47:39 INFO  DemoQATest:32 - Opened DemoQA Practice Form
+2025-08-23 21:47:40 INFO  DemoQATest:64 - Browser closed
+2025-08-23 21:50:57 INFO  DemoQATest:35 - Chrome browser launched
+2025-08-23 21:50:57 INFO  DemoQATest:43 - ExcelReader initialized with path: C:\Users\varsh\eclipse_wipro\Member5_LoggerUtils_Automation/testdata/TestData.xlsx
+2025-08-23 21:51:14 INFO  DemoQATest:50 - Opened DemoQA Practice Form
+2025-08-23 21:51:16 INFO  DemoQATest:67 - Form fields filled using Excel data
+2025-08-23 21:51:16 INFO  DemoQATest:71 - Screenshot taken and saved
+2025-08-23 21:51:19 INFO  DemoQATest:85 - Browser closed
+2025-08-23 21:51:43 INFO  DemoQATest:35 - Chrome browser launched
+2025-08-23 21:51:43 INFO  DemoQATest:43 - ExcelReader initialized with path: C:\Users\varsh\eclipse_wipro\Member5_LoggerUtils_Automation/testdata/TestData.xlsx
+2025-08-23 21:52:09 INFO  DemoQATest:50 - Opened DemoQA Practice Form
+2025-08-23 21:52:11 INFO  DemoQATest:67 - Form fields filled using Excel data
+2025-08-23 21:52:11 INFO  DemoQATest:71 - Screenshot taken and saved
+2025-08-23 21:52:14 INFO  DemoQATest:85 - Browser closed
+2025-08-23 21:54:35 INFO  DemoQATest:34 - Browser launched and maximized
+2025-08-23 21:54:35 INFO  DemoQATest:38 - ExcelReader initialized with path: C:\Users\varsh\eclipse_wipro\Member5_LoggerUtils_Automation/testdata/TestData.xlsx
+2025-08-23 21:54:47 INFO  DemoQATest:44 - Opened DemoQA Practice Form
+2025-08-23 21:54:47 INFO  DemoQATest:61 - Input fields filled from Excel data
+2025-08-23 21:54:48 INFO  DemoQATest:65 - Gender selected
+2025-08-23 21:54:48 INFO  DemoQATest:69 - Screenshot captured
+2025-08-23 21:54:50 INFO  DemoQATest:83 - Browser closed
+2025-08-23 21:55:12 INFO  DemoQATest:34 - Browser launched and maximized
+2025-08-23 21:55:12 INFO  DemoQATest:38 - ExcelReader initialized with path: C:\Users\varsh\eclipse_wipro\Member5_LoggerUtils_Automation/testdata/TestData.xlsx
+2025-08-23 21:55:22 INFO  DemoQATest:44 - Opened DemoQA Practice Form
+2025-08-23 21:55:23 INFO  DemoQATest:61 - Input fields filled from Excel data
+2025-08-23 21:55:23 INFO  DemoQATest:65 - Gender selected
+2025-08-23 21:55:23 INFO  DemoQATest:69 - Screenshot captured
+2025-08-23 21:55:29 INFO  DemoQATest:83 - Browser closed
+2025-08-23 22:11:16 INFO  DemoQATest:34 - Browser launched and maximized
+2025-08-23 22:11:16 INFO  DemoQATest:38 - ExcelReader initialized with path: C:\Users\varsh\eclipse_wipro\Member5_LoggerUtils_Automation/testdata/TestData.xlsx
+2025-08-23 22:11:42 INFO  DemoQATest:44 - Opened DemoQA Practice Form
+2025-08-23 22:11:43 INFO  DemoQATest:55 - Entered First Name: full name
+2025-08-23 22:11:44 INFO  DemoQATest:58 - Entered Email: moni@demo.com
+2025-08-23 22:11:44 INFO  DemoQATest:61 - Entered Phone: 1.234546614E9
+2025-08-23 22:11:44 INFO  DemoQATest:66 - Selected Gender: Male
+2025-08-23 22:11:44 INFO  DemoQATest:70 - Screenshot captured
+2025-08-23 22:11:46 INFO  DemoQATest:80 - Browser closed
+2025-08-23 22:21:00 INFO  DemoQATest:34 - Browser launched and maximized
+2025-08-23 22:21:00 INFO  DemoQATest:38 - ExcelReader initialized with path: C:\Users\varsh\eclipse_wipro\Member5_LoggerUtils_Automation/testdata/TestData.xlsx
+2025-08-23 22:21:06 INFO  DemoQATest:44 - Opened DemoQA Practice Form
+2025-08-23 22:21:08 INFO  DemoQATest:55 - Entered First Name: full name
+2025-08-23 22:21:08 INFO  DemoQATest:58 - Entered Email: moni@demo.com
+2025-08-23 22:21:08 INFO  DemoQATest:61 - Entered Phone: 1.234546614E9
+2025-08-23 22:21:08 INFO  DemoQATest:66 - Selected Gender: Female
+2025-08-23 22:21:08 INFO  DemoQATest:70 - Screenshot captured
+2025-08-23 22:21:11 INFO  DemoQATest:80 - Browser closed
